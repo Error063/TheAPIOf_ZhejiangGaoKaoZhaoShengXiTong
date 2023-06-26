@@ -79,7 +79,7 @@ https://pgzy.zjzs.net:4431/xnml/pic/savepic/1\*\*8\*/0\*\*81/\*s\*s\*/\*\*57\*\*
 
  
 
-## 4. 获取考生基础信息
+## 4. 获取考生基本信息
 
 URL：https://pgzy.zjzs.net:4431/ashx/ajaxHandler.ashx
 
