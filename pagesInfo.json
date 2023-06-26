@@ -1,0 +1,549 @@
+[
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "2",
+        "ptag": "修改个人基本信息",
+        "title": "修改个人基本信息",
+        "url": "userinfo1.htm",
+        "attributes": {
+          "url": "userinfo1.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "3",
+        "ptag": "申请修改个人信息",
+        "title": "申请修改个人信息",
+        "url": "changeuserinfo.htm",
+        "attributes": {
+          "url": "changeuserinfo.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "4",
+        "ptag": "上传考生照片",
+        "title": "上传考生照片",
+        "url": "uppic.htm",
+        "attributes": {
+          "url": "uppic.htm"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "1",
+    "ptag": "个人信息维护",
+    "state": "open",
+    "title": "个人信息维护",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "65",
+        "ptag": "高水平大学三位一体入围确认历史",
+        "title": "高水平大学三位一体入围确认历史",
+        "url": "exam/swswyt202301/swswyt202301_lqls.aspx",
+        "attributes": {
+          "url": "exam/swswyt202301/swswyt202301_lqls.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "63",
+    "ptag": "高水平大学三位一体",
+    "state": "open",
+    "title": "高水平大学三位一体",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "12",
+        "ptag": "普通高考报名",
+        "title": "普通高考报名",
+        "url": "exam/gk202301/gk202301_ksbbm.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_ksbbm.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "13",
+        "ptag": "普通高考报名查看",
+        "title": "普通高考报名查看",
+        "url": "exam/gk202301/gk202301_bm_look.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_bm_look.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "14",
+        "ptag": "残疾考生便利申请",
+        "title": "残疾考生便利申请",
+        "url": "exam/gk202301/gk202301_cjksblsq.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_cjksblsq.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "85",
+        "ptag": "体育专项测试准考证及报到须知下载打印",
+        "title": "体育专项测试准考证及报到须知下载打印",
+        "url": "exam/gk202301/gk202301_zkzprint_ty.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_zkzprint_ty.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "90",
+        "ptag": "体育专业术科测试准考证及报到须知下载打印",
+        "title": "体育专业术科测试准考证及报到须知下载打印",
+        "url": "exam/gk202301/zkzprint_tysk.aspx",
+        "attributes": {
+          "url": "exam/gk202301/zkzprint_tysk.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "96",
+        "ptag": "缴费",
+        "title": "缴费",
+        "url": "exam/gk202301/gk202301_jf.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_jf.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "113",
+        "ptag": "既往病史输入",
+        "title": "既往病史输入",
+        "url": "exam/gk202301/Gk202301_JWBS.htm",
+        "attributes": {
+          "url": "exam/gk202301/Gk202301_JWBS.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "45",
+        "ptag": "艺术类省统考成绩查询",
+        "title": "艺术类省统考成绩查询",
+        "url": "exam/gk202301/gk202301_yslcjcx.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_yslcjcx.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "81",
+        "ptag": "艺术类省统考合格证下载",
+        "title": "艺术类省统考合格证下载",
+        "url": "exam/gk202301/gk202301_hgzprint.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_hgzprint.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "66",
+        "ptag": "体育类省统考成绩查询",
+        "title": "体育类省统考成绩查询",
+        "url": "exam/gk202301/gk202301_tycj.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_tycj.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "86",
+        "ptag": "报名证打印",
+        "title": "报名证打印",
+        "url": "exam/gk202301/gk202301_bmzprint.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_bmzprint.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "91",
+        "ptag": "准考证打印",
+        "title": "准考证打印",
+        "url": "exam/gk202301/GK202301_zkzprint.aspx",
+        "attributes": {
+          "url": "exam/gk202301/GK202301_zkzprint.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "11",
+    "ptag": "普通高考报名管理",
+    "state": "open",
+    "title": "普通高考报名管理",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_ksbbm.htm"
+        },
+        "children": [],
+        "navid": "18",
+        "ptag": "单独考试报名",
+        "state": "open",
+        "title": "单独考试报名",
+        "url": "exam/gzdkdz202301/gzdkdz202301_ksbbm.htm"
+      },
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_bm_look.htm"
+        },
+        "children": [],
+        "navid": "19",
+        "ptag": "单独考试报名查看",
+        "state": "open",
+        "title": "单独考试报名查看",
+        "url": "exam/gzdkdz202301/gzdkdz202301_bm_look.htm"
+      },
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_cjksblsq.htm"
+        },
+        "children": [],
+        "navid": "20",
+        "ptag": "残疾考生便利申请",
+        "state": "open",
+        "title": "残疾考生便利申请",
+        "url": "exam/gzdkdz202301/gzdkdz202301_cjksblsq.htm"
+      },
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_bmzprint.aspx"
+        },
+        "children": [],
+        "navid": "102",
+        "ptag": "报名证打印",
+        "state": "open",
+        "title": "报名证打印",
+        "url": "exam/gzdkdz202301/gzdkdz202301_bmzprint.aspx"
+      },
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_zkzprint.aspx"
+        },
+        "children": [],
+        "navid": "92",
+        "ptag": "准考证打印",
+        "state": "open",
+        "title": "准考证打印",
+        "url": "exam/gzdkdz202301/gzdkdz202301_zkzprint.aspx"
+      },
+      {
+        "attributes": {
+          "url": "exam/gzdkdz202301/gzdkdz202301_jf.aspx"
+        },
+        "children": [],
+        "navid": "97",
+        "ptag": "缴费",
+        "state": "open",
+        "title": "缴费",
+        "url": "exam/gzdkdz202301/gzdkdz202301_jf.aspx"
+      },
+      {
+        "attributes": {
+          "url": "exam/GZDKDZ202301/GZDKDZ202301_JWBS.htm"
+        },
+        "children": [],
+        "navid": "114",
+        "ptag": "既往病史输入",
+        "state": "open",
+        "title": "既往病史输入",
+        "url": "exam/GZDKDZ202301/GZDKDZ202301_JWBS.htm"
+      }
+    ],
+    "navid": "17",
+    "ptag": "单独考试报名管理",
+    "state": "open",
+    "title": "单独考试报名管理",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "32",
+        "ptag": "高考外语、选考信息确认",
+        "title": "高考外语、选考信息确认",
+        "url": "exam/gk202301/gk202301_xuankbm.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_xuankbm.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "105",
+        "ptag": "高考外语、选考信息确认查看",
+        "title": "高考外语、选考信息确认查看",
+        "url": "exam/gk202301/gk202301_xuankbm_look.htm",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_xuankbm_look.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "33",
+        "ptag": "缴费支付",
+        "title": "缴费支付",
+        "url": "exam/gk202301/gk202301_jf_xk.aspx",
+        "attributes": {
+          "url": "exam/gk202301/gk202301_jf_xk.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "21",
+    "ptag": "6月高考外语、选考信息确认",
+    "state": "open",
+    "title": "6月高考外语、选考信息确认",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "39",
+        "ptag": "考试报名查看",
+        "title": "考试报名查看",
+        "url": "exam/xyks202302/xyks202302_bm_look.htm",
+        "attributes": {
+          "url": "exam/xyks202302/xyks202302_bm_look.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "28",
+        "ptag": "残疾考生便利申请",
+        "title": "残疾考生便利申请",
+        "url": "exam/xyks202302/xyks202302_cjksblsq.htm",
+        "attributes": {
+          "url": "exam/xyks202302/xyks202302_cjksblsq.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "88",
+        "ptag": "缴费支付",
+        "title": "缴费支付",
+        "url": "exam/xyks202302/xyks202302_jf.aspx",
+        "attributes": {
+          "url": "exam/xyks202302/xyks202302_jf.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "27",
+    "ptag": "2023年7月学考报名管理",
+    "state": "open",
+    "title": "2023年7月学考报名管理",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "43",
+        "ptag": "高职提前招生考试报名查看",
+        "title": "高职提前招生考试报名查看",
+        "url": "exam/tqzs202301/tqzs202301_bm_look.htm",
+        "attributes": {
+          "url": "exam/tqzs202301/tqzs202301_bm_look.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "56",
+        "ptag": "高职提前招生录取确认",
+        "title": "高职提前招生录取确认",
+        "url": "exam/tqzs202301/tqzs202301_lq.aspx",
+        "attributes": {
+          "url": "exam/tqzs202301/tqzs202301_lq.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "57",
+        "ptag": "高职提前招生录取历史",
+        "title": "高职提前招生录取历史",
+        "url": "exam/tqzs202301/tqzs202301_lqls.aspx",
+        "attributes": {
+          "url": "exam/tqzs202301/tqzs202301_lqls.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "41",
+    "ptag": "高职提前招生报名管理",
+    "state": "open",
+    "title": "高职提前招生报名管理",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "9",
+        "ptag": "职业技能考试报名查看",
+        "title": "职业技能考试报名查看",
+        "url": "exam/zyjnks202301/zyjnks202301_bm_look.htm",
+        "attributes": {
+          "url": "exam/zyjnks202301/zyjnks202301_bm_look.htm"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "48",
+        "ptag": "职业技能考试理论成绩查询",
+        "title": "职业技能考试理论成绩查询",
+        "url": "exam/zyjnks202301/llcjcx.aspx",
+        "attributes": {
+          "url": "exam/zyjnks202301/llcjcx.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "93",
+        "ptag": "准考证打印",
+        "title": "准考证打印",
+        "url": "exam/zyjnks202301/zyjnks202301_zkzprint.aspx",
+        "attributes": {
+          "url": "exam/zyjnks202301/zyjnks202301_zkzprint.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "10",
+        "ptag": "职业技能考试成绩查询",
+        "title": "职业技能考试成绩查询",
+        "url": "exam/zyjnks202301/jncjcx.aspx",
+        "attributes": {
+          "url": "exam/zyjnks202301/jncjcx.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "55",
+        "ptag": "职业技能成绩查卷申请反馈结果",
+        "title": "职业技能成绩查卷申请反馈结果",
+        "url": "exam/zyjnks202301/cjfk.aspx",
+        "attributes": {
+          "url": "exam/zyjnks202301/cjfk.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "6",
+    "ptag": "职业技能考试报名管理",
+    "state": "open",
+    "title": "职业技能考试报名管理",
+    "url": "#"
+  },
+  {
+    "attributes": {
+      "url": "#"
+    },
+    "children": [
+      {
+        "navid": "30",
+        "ptag": "学业考试历次成绩查询",
+        "title": "学业考试历次成绩查询",
+        "url": "xklscj.aspx",
+        "attributes": {
+          "url": "xklscj.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "31",
+        "ptag": "学业考试最终成绩查询",
+        "title": "学业考试最终成绩查询",
+        "url": "xkzzcj.aspx",
+        "attributes": {
+          "url": "xkzzcj.aspx"
+        },
+        "state": "open",
+        "children": []
+      },
+      {
+        "navid": "112",
+        "ptag": "违纪违规告知书查询",
+        "title": "违纪违规告知书查询",
+        "url": "wjwggzs.aspx",
+        "attributes": {
+          "url": "wjwggzs.aspx"
+        },
+        "state": "open",
+        "children": []
+      }
+    ],
+    "navid": "29",
+    "ptag": "信息查询",
+    "state": "open",
+    "title": "信息查询",
+    "url": "#"
+  }]
