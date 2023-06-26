@@ -2,6 +2,8 @@
 
 # pgzy
 
+示例文件：./main.py
+
 主链接：https://pgzy.zjzs.net:4431/
 
  
@@ -171,6 +173,8 @@ URL：https://pgzy.zjzs.net:4431/ashx/ajaxHandler.ashx
 
 
 # cx
+
+示例文件：./getscores.py
 
 主链接：https://cx.zjzs.net/exam/<考试ID>/default.htm
 
